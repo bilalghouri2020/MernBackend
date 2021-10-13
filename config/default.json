@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://bilal123:bilal123@cluster0.mfzvy.mongodb.net/merndb?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken"
+}
